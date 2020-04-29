@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\bin\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.deps.json
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\bin\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.runtimeconfig.json
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\bin\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\bin\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.dll
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\bin\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.pdb
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.AssemblyInfo.cs
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.dll
+C:\Users\Илья\source\repos\Prakti4eskaya3_cisharp_PO4TA\Prakti4eskaya3_cisharp_PO4TA\obj\Debug\netcoreapp2.1\Prakti4eskaya3_cisharp_PO4TA.pdb
